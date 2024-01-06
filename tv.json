@@ -1,10 +1,10 @@
 ﻿
 {
-"spider":"clan://tvbox.huwo.top/huwo.jar",
+"spider":"./huwo.jar",
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94Lmh1d28udG9wL3R2LnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90dmJveC5odXdvLnRvcC90di50eHQ="]}]}],
 
 
 "sites":[
